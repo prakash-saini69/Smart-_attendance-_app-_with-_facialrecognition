@@ -9,6 +9,10 @@ import 'package:hazri2/utils/firebase_options.dart';
 import 'package:hazri2/screens/LoginPage.dart';
 import 'package:hazri2/screens/splashScreen.dart';
 
+
+
+// main
+
 void main() async{
   SystemChrome.setSystemUIOverlayStyle(
     const SystemUiOverlayStyle(
